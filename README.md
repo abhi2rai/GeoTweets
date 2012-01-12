@@ -13,7 +13,7 @@ Using this repository to follow the screencast
 
 First, you'll have to clone this repository:
 
-    git clone git://github.com/nelstrom/GeoTweets.git
+    git clone git://github.com/senchalearn/GeoTweets.git
 
 Change into the directory:
 
@@ -46,10 +46,10 @@ You can try out the demo here:
 
 [tutorial]: http://vimeo.com/15672696
 
-[00]: https://github.com/nelstrom/GeoTweets/tree/00_skeleton
-[01]: https://github.com/nelstrom/GeoTweets/tree/01_gui
-[02]: https://github.com/nelstrom/GeoTweets/tree/02_static
-[03]: https://github.com/nelstrom/GeoTweets/tree/03_dynamic
-[04]: https://github.com/nelstrom/GeoTweets/tree/04_map
+[00]: https://github.com/senchalearn/GeoTweets/tree/00_skeleton
+[01]: https://github.com/senchalearn/GeoTweets/tree/01_gui
+[02]: https://github.com/senchalearn/GeoTweets/tree/02_static
+[03]: https://github.com/senchalearn/GeoTweets/tree/03_dynamic
+[04]: https://github.com/senchalearn/GeoTweets/tree/04_map
 
 [d]: http://geo-tweets.heroku.com/
